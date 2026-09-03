@@ -9,3 +9,6 @@ This project analyses NYC Yellow Taxi trip records to explore
 night-time travel demand, fare behaviour and data quality between 
 2014 and 2025. It covers dataset collection, data preparation, 
 exploratory data analysis and evaluation against the 7 Vs of Big Data.
+
+## Dataset
+NYC Yellow Taxi Trip Records
