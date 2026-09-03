@@ -1,7 +1,4 @@
-# MIT805-BigData-Project
-MIT805 BigData Project - Part 1
-
-# NYC Taxi Big Data Project
+# MIT805 Big Data Project - Part 1
 
 ## Group Members
 - Philine Potgieter
