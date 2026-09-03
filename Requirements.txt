@@ -1,13 +1,13 @@
-pandas
+pandas v2.2.3
 
-matplotlib
+matplotlib v3.10.0
 
-seaborn
+seaborn v0.13.2
 
-pyarrow
+pyarrow v18.1.0
 
-numpy
+numpy v2.1.3
 
-scipy
+scipy v1.16.3
 
-requests
+requests v2.32.4
