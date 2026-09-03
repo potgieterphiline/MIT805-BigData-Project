@@ -8,7 +8,7 @@ MIT805 BigData Project - Part 1
 - Tshwanelo Mathala 
 
 ## Dataset
-NYC TLC Trip Record Data
+Yellow Taxi Trip Records
 
 ## Objective
 Large-Scale Data Analysis and Distributed Processing with PySpark
