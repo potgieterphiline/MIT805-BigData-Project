@@ -1,0 +1,33 @@
+### Exploratory Data Analysis
+
+The following steps were carried out to explore patterns, distributions, 
+relationships, and anomalies in the dataset:
+
+1. **Trip volume over time** – Monthly trip counts were calculated 
+   across all 143 processing files to identify long-term demand trends.
+
+2. **Fare over time** – Average fare per month was calculated to 
+   examine pricing trends and identify anomalies such as the 2020 spike.
+
+3. **Trip distance over time** – Average trip distance per month was 
+   calculated to identify unusual months and long-term shifts in trip 
+   length.
+
+4. **Distribution and outlier checks** – Fare amount, trip distance, 
+   and passenger count were sampled (every 10th file) and examined 
+   using summary statistics and histograms to identify implausible 
+   values, such as negative fares and extreme trip distances.
+
+5. **Distance vs fare relationship** – A correlation and scatter plot 
+   were produced to assess the relationship between trip distance and 
+   fare amount, revealing both the expected linear pattern and 
+   flat-rate pricing bands.
+
+6. **Hour-level breakdown** – Trip counts were broken down by pickup 
+   hour within the night-time window to identify finer demand patterns.
+
+7. **Payment type and vendor breakdown** – Trip counts were grouped by 
+   payment type and vendor, using the official TLC data dictionary to 
+   map coded values to readable labels, and to identify undocumented 
+   vendor codes.
+
