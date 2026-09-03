@@ -1,4 +1,4 @@
-# MIT805 Big Data Project - Part 1
+# MIT805 Big Data Project - Part 1 - Group 16
 
 ## Group Members
 - Philine Potgieter
